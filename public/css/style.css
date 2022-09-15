@@ -6,8 +6,8 @@ body {
     width: 350px;
    }
    .board button {
-    height: 100px;
-    width: 100px;
+    height: 200px;
+    width: 200px;
     margin: 0px;
     padding: 0px;
     float: left;
